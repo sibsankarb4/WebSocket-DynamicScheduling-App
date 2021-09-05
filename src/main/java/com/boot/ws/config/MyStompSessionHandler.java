@@ -1,6 +1,6 @@
 package com.boot.ws.config;
 
-//keeping this for testing purpose
+//keeping this for future testing purpose locally
 
 /*import java.lang.reflect.Type;
 
