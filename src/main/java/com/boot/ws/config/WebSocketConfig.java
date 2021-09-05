@@ -1,6 +1,6 @@
 package com.boot.ws.config;
 
-//keeping this for testing purpose
+//keeping this for future testing purpose in local
 
 /*import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
